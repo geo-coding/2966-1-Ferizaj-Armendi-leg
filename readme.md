@@ -19,5 +19,7 @@ Rr. "Selim Dabinovci"
 | perdhesa | 98.89 |
 | terasa | 15.15 |
 | gjithsej: | 114.04 |
+| -- | -- |
+| bodrumi | 49.24 |
 
 
