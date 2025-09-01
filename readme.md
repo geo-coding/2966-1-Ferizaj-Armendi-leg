@@ -21,5 +21,8 @@ Rr. "Selim Dabinovci"
 | gjithsej: | 114.04 |
 | -- | -- |
 | bodrumi | 49.24 |
-
+| kati1 | -- |
+| kati 1 | 79.84 |
+| terasa | 7.68 |
+| gjithsej: | 87.52 |
 
