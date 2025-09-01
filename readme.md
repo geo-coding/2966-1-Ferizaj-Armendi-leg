@@ -6,6 +6,7 @@ Armend (Habil) Dabinovci
 +383 49 184 140
 
 Rr. "Selim Dabinovci"
+KODRA E KAZERMËS
 
 02966-3,02966-2,02966-1
 ```
