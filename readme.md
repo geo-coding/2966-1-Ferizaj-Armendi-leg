@@ -29,3 +29,19 @@ KODRA E KAZERMËS
 | gjithsej: | 87.52 |
 | total: | 250.80 |
 
+## objekti 2
+
+| kati | sip |
+| -------------- | --------------- |
+| perdhesa | -- |
+| perdhesa | 100.87 |
+| terasa | 15.70 |
+| gjithsej: | 116.57 |
+| -- | -- |
+| bodrumi | 50.45 |
+| kati1 | -- |
+| kati 1 | 79.84 |
+| terasa | 8.32 |
+| gjithsej: | 88.16 |
+| total: | 250.80 |
+
