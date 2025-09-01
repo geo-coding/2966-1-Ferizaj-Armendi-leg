@@ -54,9 +54,9 @@ KODRA E KAZERMËS
 | terasa | 15.86 |
 | gjithsej: | 114.86 |
 | -- | -- |
-| bodrumi | 50.45 |
+| bodrumi | 50.09 |
 | kati1 | -- |
-| kati 1 | 79.84 |
-| terasa | 8.32 |
-| gjithsej: | 88.16 |
-| total: | 250.80 |
+| kati 1 | 77.70 |
+| terasa | 8.66 |
+| gjithsej: | 86.36 |
+| total: | 251.31 |
