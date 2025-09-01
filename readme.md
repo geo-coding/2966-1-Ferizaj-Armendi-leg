@@ -12,6 +12,7 @@ Rr. "Selim Dabinovci"
 
 # katet
 
+## objekti 1
 
 | kati | sip |
 | -------------- | --------------- |
@@ -25,4 +26,5 @@ Rr. "Selim Dabinovci"
 | kati 1 | 79.84 |
 | terasa | 7.68 |
 | gjithsej: | 87.52 |
+| total: | 250.80 |
 
